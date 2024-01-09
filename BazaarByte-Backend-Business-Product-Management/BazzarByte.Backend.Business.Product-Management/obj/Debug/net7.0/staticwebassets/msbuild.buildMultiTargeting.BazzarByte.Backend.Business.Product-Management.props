@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BazzarByte.Backend.Business.Product-Management.props" />
+</Project>
